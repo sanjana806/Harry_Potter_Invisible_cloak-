@@ -89,7 +89,3 @@ Science Fair 2025 Project
 * Android app version
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:6dd5fa,100:ff6ec7" />
-</p>
