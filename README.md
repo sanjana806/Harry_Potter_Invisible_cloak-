@@ -1,13 +1,3 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Invisible%20Cloak%20Project&fontAlignY=40&color=0:ff6ec7,100:6dd5fa&fontColor=ffffff&fontSize=55&animation=fadeIn" />
-</p>
-
----
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Invisible%20Cloak%20Project&fontAlignY=40&color=0:ff6ec7,100:6dd5fa&fontColor=ffffff&fontSize=55&animation=fadeIn" />
 </p>
@@ -103,4 +93,3 @@ Science Fair 2025 Project
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:6dd5fa,100:ff6ec7" />
 </p>
-```
