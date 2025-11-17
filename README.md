@@ -1,9 +1,7 @@
 
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Invisible%20Cloak%20Project&fontAlignY=40&color=0:ff6ec7,100:6dd5fa&fontColor=ffffff&fontSize=55&animation=fadeIn" />
 </p>
-```
 
 ---
 
@@ -11,7 +9,7 @@
 
 Copy this entire section into your `README.md`:
 
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Invisible%20Cloak%20Project&fontAlignY=40&color=0:ff6ec7,100:6dd5fa&fontColor=ffffff&fontSize=55&animation=fadeIn" />
 </p>
@@ -83,9 +81,9 @@ Invisible-Cloak/
 
 # 🚀 Run the Program
 
-```bash
+
 python invisible_cloak.py
-```
+
 
 Press **q** to quit • Press **s** to save output frame.
 
