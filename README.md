@@ -5,9 +5,7 @@
 
 ---
 
-# ✨ **Animated Full README (Final Version)**
 
-Copy this entire section into your `README.md`:
 
 
 <p align="center">
@@ -31,7 +29,6 @@ This project is simple, creative, and perfect for science fairs and AI/ML learni
 ---
 
 # 🎥 How It Works  
-```
 
 [1] Capture background frame
 [2] Detect cloak color using HSV
@@ -39,13 +36,9 @@ This project is simple, creative, and perfect for science fairs and AI/ML learni
 [4] Replace cloak area with background
 [5] Result: Invisibility Effect ✨
 
-````
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="340" />
-</p>
 
----
+
 
 # 🛠 Tech Stack  
 | Tool | Purpose |
@@ -87,15 +80,7 @@ python invisible_cloak.py
 
 Press **q** to quit • Press **s** to save output frame.
 
----
 
-# 🌟 Demo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="300"/>
-</p>
-
----
 
 # 👩‍🎓 Developer
 
